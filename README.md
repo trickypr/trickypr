@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=trickypr&style=flat-square)
 
 - 🔭 I’m currently working on Dot Browser and MEML
 - 🌱 I’m currently learning Python
