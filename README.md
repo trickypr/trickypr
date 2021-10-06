@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I cant do social interaction for some reason
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=trickypr)](https://github.com/LordDashMe/github-contribution-stats/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=trickypr&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=trickypr&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
