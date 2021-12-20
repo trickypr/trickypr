@@ -1,11 +1,11 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=trickypr&style=flat-square)
 
-- 🔭 I’m currently working on Dot Browser and MEML
+- 🔭 I’m currently working on OrbTK applications and Firefox forks
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on MEML
+- 👯 I’m looking to collaborate on Focus Browser
 - 💬 Ask me about something coding related
-- 📫 How to reach me: @ me on the [Dot HQ](https://dothq.link/dsc) or [MEML discord](https://discord.gg/UPQW9juP5Z)
+- 📫 How to reach me: @ me on the [Fushra discord server](https://discord.gg/xNkretH7sD)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I cant do social interaction for some reason
 
