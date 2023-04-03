@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Focus Browser
 - 💬 Ask me about something coding related
-- 📫 How to reach me: @ me on the [Fushra discord server](https://discord.gg/xNkretH7sD)
+- 📫 How to reach me: @ me on the [Fushra discord server](https://discord.gg/xNkretH7sD) or ping me on <a rel="me" href="https://mas.to/@trickypr">Mastodon</a>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I cant do social interaction for some reason
 
